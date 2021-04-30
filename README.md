@@ -1,4 +1,4 @@
-### Hi there 👋
+Hello, world.
 
 <!--
 **mahieyin-rahmun/mahieyin-rahmun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Mahieyin's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahieyin-rahmun&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mahieyin-rahmun&repo=NextJSTypeScriptStarter)](https://github.com/mahieyin-rahmun/NextJSTypeScriptStarter)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahieyin-rahmun&count_private=true&hide=jupyter%20notebook,css,php)](https://github.com/anuraghazra/github-readme-stats)
