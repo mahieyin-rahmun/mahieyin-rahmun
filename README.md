@@ -15,8 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Mahieyin's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahieyin-rahmun&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mahieyin-rahmun&repo=NextJSTypeScriptStarter)](https://github.com/mahieyin-rahmun/NextJSTypeScriptStarter)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahieyin-rahmun&count_private=true&hide=jupyter%20notebook,css,php)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mahieyin-rahmun&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahieyin-rahmun&layout=compact&count_private=true&hide=jupyter%20notebook,css,php" height="195px" width="450px" />
+</a>
+<br />
+<a href="https://github.com/mahieyin-rahmun/NextJSTypeScriptStarter">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mahieyin-rahmun&repo=NextJSTypeScriptStarter" />
+</a>
