@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mahieyin-rahmun&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahieyin-rahmun&layout=compact&count_private=true&hide=jupyter%20notebook,css,php" height="195px" width="450px" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahieyin-rahmun&layout=compact&count_private=true&hide=jupyter%20notebook,css,php" height="195px" width="400px" />
 </a>
 <br />
 <hr />
